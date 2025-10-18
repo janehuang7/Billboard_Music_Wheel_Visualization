@@ -1,0 +1,2994 @@
+{
+  "name": ["Root"],
+  "children": [
+    {
+      "name": ["Folk Rock"],
+      "children": [
+        {
+          "name": ["Album Rock"],
+          "children": [
+            {
+              "name": ["She's Got A Way"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["She's Got A Way"],
+              "value": [13]
+            },
+            {
+              "name": ["(Just Like) Starting Over"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["(Just Like) Starting Over"],
+              "value": [10]
+            },
+            {
+              "name": ["Still The Same"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Still The Same"],
+              "value": [9]
+            },
+            {
+              "name": ["Bells, Bells, Bells"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Bells, Bells, Bells"],
+              "value": [4]
+            },
+            {
+              "name": ["We Didn't Start The Fire"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["We Didn't Start The Fire"],
+              "value": [4]
+            },
+            {
+              "name": ["Another Day"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Another Day"],
+              "value": [9]
+            },
+            {
+              "name": ["Night Moves"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Night Moves"],
+              "value": [21]
+            },
+            {
+              "name": ["See Me, Feel Me"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["See Me, Feel Me"],
+              "value": [2]
+            },
+            {
+              "name": ["Take It To The Limit"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Take It To The Limit"],
+              "value": [2]
+            },
+            {
+              "name": ["#9 Dream"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["#9 Dream"],
+              "value": [10]
+            },
+            {
+              "name": ["The Best Of Times"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["The Best Of Times"],
+              "value": [10]
+            },
+            {
+              "name": ["You May Be Right"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["You May Be Right"],
+              "value": [1]
+            },
+            {
+              "name": ["Get Out Of Denver"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Get Out Of Denver"],
+              "value": [3]
+            },
+            {
+              "name": ["Take It Away"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Take It Away"],
+              "value": [14]
+            },
+            {
+              "name": ["The Horizontal Bop"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["The Horizontal Bop"],
+              "value": [1]
+            },
+            {
+              "name": ["It's Still Rock And Roll To Me"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["It's Still Rock And Roll To Me"],
+              "value": [2]
+            },
+            {
+              "name": ["Just The Way You Are"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Just The Way You Are"],
+              "value": [1]
+            },
+            {
+              "name": ["Uptown Girl"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Uptown Girl"],
+              "value": [1]
+            },
+            {
+              "name": ["I Can See For Miles"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["I Can See For Miles"],
+              "value": [2]
+            },
+            {
+              "name": ["My Brave Face"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["My Brave Face"],
+              "value": [8]
+            },
+            {
+              "name": ["Hotel California"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Hotel California"],
+              "value": [10]
+            },
+            {
+              "name": ["Watching The River Flow"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Watching The River Flow"],
+              "value": [7]
+            },
+            {
+              "name": ["Leave A Tender Moment Alone"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Leave A Tender Moment Alone"],
+              "value": [11]
+            },
+            {
+              "name": ["Chain Gang Medley"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Chain Gang Medley"],
+              "value": [9]
+            },
+            {
+              "name": ["Fire Lake"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Fire Lake"],
+              "value": [3]
+            },
+            {
+              "name": ["Love At First Sight"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Love At First Sight"],
+              "value": [16]
+            },
+            {
+              "name": ["Eminence Front"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Eminence Front"],
+              "value": [2]
+            },
+            {
+              "name": ["An Innocent Man"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["An Innocent Man"],
+              "value": [14]
+            },
+            {
+              "name": ["Who Are You"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Who Are You"],
+              "value": [11]
+            },
+            {
+              "name": ["Shakedown"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Shakedown"],
+              "value": [3]
+            },
+            {
+              "name": ["She's Always A Woman"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["She's Always A Woman"],
+              "value": [5]
+            },
+            {
+              "name": ["Lady"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Lady"],
+              "value": [7]
+            },
+            {
+              "name": ["A Rock 'N' Roll Fantasy"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["A Rock 'N' Roll Fantasy"],
+              "value": [5]
+            },
+            {
+              "name": ["Don't Ask Me Why"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Don't Ask Me Why"],
+              "value": [12]
+            }
+          ]
+        },
+        {
+          "name": ["Adult Standards"],
+          "children": [
+            {
+              "name": ["A Heart In New York"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["A Heart In New York"],
+              "value": [9]
+            },
+            {
+              "name": ["Baby, What A Big Surprise"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Baby, What A Big Surprise"],
+              "value": [10]
+            },
+            {
+              "name": ["Look Away"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Look Away"],
+              "value": [13]
+            },
+            {
+              "name": ["Alive Again"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Alive Again"],
+              "value": [3]
+            },
+            {
+              "name": ["Chasin' The Wind"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Chasin' The Wind"],
+              "value": [6]
+            },
+            {
+              "name": ["Call On Me"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Call On Me"],
+              "value": [15]
+            },
+            {
+              "name": ["Wishing You Were Here"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Wishing You Were Here"],
+              "value": [5]
+            },
+            {
+              "name": ["Your Smiling Face"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Your Smiling Face"],
+              "value": [10]
+            },
+            {
+              "name": ["Must Have Been Crazy"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Must Have Been Crazy"],
+              "value": [5]
+            }
+          ]
+        },
+        {
+          "name": ["Classic Rock"],
+          "children": [
+            {
+              "name": ["Brown Eyed Girl"],
+              "genre_detailed_1_genre_detailed": ["Classic Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Brown Eyed Girl"],
+              "value": [13]
+            },
+            {
+              "name": ["Me And Julio..."],
+              "genre_detailed_1_genre_detailed": ["Classic Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Me And Julio..."],
+              "value": [8]
+            }
+          ]
+        },
+        {
+          "name": ["British Folk"],
+          "children": [
+            {
+              "name": ["Another Saturday Night"],
+              "genre_detailed_1_genre_detailed": ["British Folk"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["Another Saturday Night"],
+              "value": [9]
+            }
+          ]
+        },
+        {
+          "name": ["Folk Rock"],
+          "children": [
+            {
+              "name": ["It's My Job"],
+              "genre_detailed_1_genre_detailed": ["Folk Rock"],
+              "genre_most_broad": ["Folk Rock"],
+              "song": ["It's My Job"],
+              "value": [5]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": ["Country"],
+      "children": [
+        {
+          "name": ["Contemporary Country"],
+          "children": [
+            {
+              "name": ["If Something Should Happen"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["If Something Should Happen"],
+              "value": [7]
+            },
+            {
+              "name": ["Marry Me"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Marry Me"],
+              "value": [17]
+            },
+            {
+              "name": ["Bonfire"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Bonfire"],
+              "value": [13]
+            },
+            {
+              "name": ["If I Die Young"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["If I Die Young"],
+              "value": [48]
+            },
+            {
+              "name": ["Friends"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Friends"],
+              "value": [2]
+            },
+            {
+              "name": ["When You Need My Love"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["When You Need My Love"],
+              "value": [13]
+            },
+            {
+              "name": ["Feel That Fire"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Feel That Fire"],
+              "value": [3]
+            },
+            {
+              "name": ["Whatever It Is"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Whatever It Is"],
+              "value": [10]
+            },
+            {
+              "name": ["Hope You Get Lonely Tonight"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Hope You Get Lonely Tonight"],
+              "value": [1]
+            },
+            {
+              "name": ["I Love The Way You Love Me"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["I Love The Way You Love Me"],
+              "value": [10]
+            },
+            {
+              "name": ["Toes"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Toes"],
+              "value": [6]
+            },
+            {
+              "name": ["Creepin'"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Creepin'"],
+              "value": [2]
+            },
+            {
+              "name": ["Tough Little Boys"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Tough Little Boys"],
+              "value": [18]
+            },
+            {
+              "name": ["My Maria"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["My Maria"],
+              "value": [1]
+            },
+            {
+              "name": ["Tornado"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Tornado"],
+              "value": [3]
+            },
+            {
+              "name": ["Baby Girl"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Baby Girl"],
+              "value": [2]
+            },
+            {
+              "name": ["Crash And Burn"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Crash And Burn"],
+              "value": [13]
+            },
+            {
+              "name": ["Make Me Wanna"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Make Me Wanna"],
+              "value": [15]
+            },
+            {
+              "name": ["Good Directions"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Good Directions"],
+              "value": [7]
+            },
+            {
+              "name": ["Love Ain't"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Love Ain't"],
+              "value": [17]
+            },
+            {
+              "name": ["Say You Do"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Say You Do"],
+              "value": [1]
+            },
+            {
+              "name": ["Keep Me In Mind"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Keep Me In Mind"],
+              "value": [6]
+            },
+            {
+              "name": ["Stuck Like Glue"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Stuck Like Glue"],
+              "value": [18]
+            },
+            {
+              "name": ["Burning Man"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Burning Man"],
+              "value": [8]
+            },
+            {
+              "name": ["Alone With You"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Alone With You"],
+              "value": [1]
+            },
+            {
+              "name": ["Day Drinking"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Day Drinking"],
+              "value": [11]
+            },
+            {
+              "name": ["Better Dig Two"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Better Dig Two"],
+              "value": [1]
+            },
+            {
+              "name": ["Only In America"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Only In America"],
+              "value": [12]
+            },
+            {
+              "name": ["Drunk On A Plane"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Drunk On A Plane"],
+              "value": [13]
+            },
+            {
+              "name": ["Time Is Love"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Time Is Love"],
+              "value": [1]
+            },
+            {
+              "name": ["How Am I Doin'"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["How Am I Doin'"],
+              "value": [16]
+            },
+            {
+              "name": ["You're Gonna Miss This"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["You're Gonna Miss This"],
+              "value": [12]
+            },
+            {
+              "name": ["Play Something Country"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Play Something Country"],
+              "value": [10]
+            },
+            {
+              "name": ["Night Shift"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Night Shift"],
+              "value": [15]
+            },
+            {
+              "name": ["Lonely And Gone"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Lonely And Gone"],
+              "value": [3]
+            },
+            {
+              "name": ["It's A Great Day To Be Alive"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["It's A Great Day To Be Alive"],
+              "value": [14]
+            },
+            {
+              "name": ["As She's Walking Away"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["As She's Walking Away"],
+              "value": [16]
+            },
+            {
+              "name": ["Head Over Boots"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Head Over Boots"],
+              "value": [17]
+            },
+            {
+              "name": ["That's How Country Boys Roll"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["That's How Country Boys Roll"],
+              "value": [15]
+            },
+            {
+              "name": ["Drinkin' Bone"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Drinkin' Bone"],
+              "value": [15]
+            },
+            {
+              "name": ["Mind Reader"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Mind Reader"],
+              "value": [12]
+            },
+            {
+              "name": ["Something To Be Proud Of"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Something To Be Proud Of"],
+              "value": [13]
+            },
+            {
+              "name": ["Home To You"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Home To You"],
+              "value": [5]
+            },
+            {
+              "name": ["Pickin' Wildflowers"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Pickin' Wildflowers"],
+              "value": [8]
+            },
+            {
+              "name": ["Even If It Breaks Your Heart"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Even If It Breaks Your Heart"],
+              "value": [1]
+            },
+            {
+              "name": ["Knee Deep"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Knee Deep"],
+              "value": [20]
+            },
+            {
+              "name": ["Cowboys And Angels"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Cowboys And Angels"],
+              "value": [4]
+            },
+            {
+              "name": ["All I Want To Do"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["All I Want To Do"],
+              "value": [11]
+            },
+            {
+              "name": ["Love Like Crazy"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Love Like Crazy"],
+              "value": [4]
+            },
+            {
+              "name": ["In Color"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["In Color"],
+              "value": [5]
+            },
+            {
+              "name": ["Tip It On Back"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Tip It On Back"],
+              "value": [1]
+            },
+            {
+              "name": ["Miss Me Baby"],
+              "genre_detailed_1_genre_detailed": ["Contemporary Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Miss Me Baby"],
+              "value": [7]
+            }
+          ]
+        },
+        {
+          "name": ["Country"],
+          "children": [
+            {
+              "name": ["For You I Will"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["For You I Will"],
+              "value": [6]
+            },
+            {
+              "name": ["When She Cries"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["When She Cries"],
+              "value": [20]
+            },
+            {
+              "name": ["I Don't Want To Miss A Thing"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["I Don't Want To Miss A Thing"],
+              "value": [4]
+            },
+            {
+              "name": ["Sal's Got A Sugar Lip"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Sal's Got A Sugar Lip"],
+              "value": [7]
+            },
+            {
+              "name": ["I.o.u."],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["I.o.u."],
+              "value": [10]
+            },
+            {
+              "name": ["If You Ever Have Forever In Mind"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["If You Ever Have Forever In Mind"],
+              "value": [9]
+            },
+            {
+              "name": ["She Thinks She Needs Me"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["She Thinks She Needs Me"],
+              "value": [7]
+            },
+            {
+              "name": ["Where The Stars And Stripes"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Where The Stars And Stripes"],
+              "value": [12]
+            },
+            {
+              "name": ["Kiss This"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Kiss This"],
+              "value": [10]
+            },
+            {
+              "name": ["I Don't Want A Lover"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["I Don't Want A Lover"],
+              "value": [6]
+            },
+            {
+              "name": ["The Quittin' Kind"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["The Quittin' Kind"],
+              "value": [6]
+            },
+            {
+              "name": ["God Bless The USA"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["God Bless The USA"],
+              "value": [5]
+            },
+            {
+              "name": ["Theme From The Dukes..."],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Theme From The Dukes..."],
+              "value": [15]
+            },
+            {
+              "name": ["Close Enough To Perfect"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Close Enough To Perfect"],
+              "value": [11]
+            },
+            {
+              "name": ["The Love Song"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["The Love Song"],
+              "value": [8]
+            },
+            {
+              "name": ["Somebody's Gonna Love You"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Somebody's Gonna Love You"],
+              "value": [2]
+            }
+          ]
+        },
+        {
+          "name": ["Arkansas Country"],
+          "children": [
+            {
+              "name": ["Point At You"],
+              "genre_detailed_1_genre_detailed": ["Arkansas Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Point At You"],
+              "value": [4]
+            },
+            {
+              "name": ["The Impossible"],
+              "genre_detailed_1_genre_detailed": ["Arkansas Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["The Impossible"],
+              "value": [8]
+            },
+            {
+              "name": ["99.9% Sure"],
+              "genre_detailed_1_genre_detailed": ["Arkansas Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["99.9% Sure"],
+              "value": [4]
+            },
+            {
+              "name": ["If Heaven Wasn't So Far Away"],
+              "genre_detailed_1_genre_detailed": ["Arkansas Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["If Heaven Wasn't So Far Away"],
+              "value": [16]
+            },
+            {
+              "name": ["You've Never Been This..."],
+              "genre_detailed_1_genre_detailed": ["Arkansas Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["You've Never Been This..."],
+              "value": [10]
+            },
+            {
+              "name": ["Gimmie That Girl"],
+              "genre_detailed_1_genre_detailed": ["Arkansas Country"],
+              "genre_most_broad": ["Country"],
+              "song": ["Gimmie That Girl"],
+              "value": [17]
+            }
+          ]
+        },
+        {
+          "name": ["Country Road"],
+          "children": [
+            {
+              "name": ["Did It For The Girl"],
+              "genre_detailed_1_genre_detailed": ["Country Road"],
+              "genre_most_broad": ["Country"],
+              "song": ["Did It For The Girl"],
+              "value": [11]
+            }
+          ]
+        },
+        {
+          "name": ["Cosmic American"],
+          "children": [
+            {
+              "name": ["When The Morning Comes"],
+              "genre_detailed_1_genre_detailed": ["Cosmic American"],
+              "genre_most_broad": ["Country"],
+              "song": ["When The Morning Comes"],
+              "value": [6]
+            }
+          ]
+        },
+        {
+          "name": ["Comic"],
+          "children": [
+            {
+              "name": ["When You're Hot, You're Hot"],
+              "genre_detailed_1_genre_detailed": ["Comic"],
+              "genre_most_broad": ["Country"],
+              "song": ["When You're Hot, You're Hot"],
+              "value": [4]
+            }
+          ]
+        },
+        {
+          "name": ["Idol"],
+          "children": [
+            {
+              "name": ["Crying On A Suitcase"],
+              "genre_detailed_1_genre_detailed": ["Idol"],
+              "genre_most_broad": ["Country"],
+              "song": ["Crying On A Suitcase"],
+              "value": [9]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": ["Rock"],
+      "children": [
+        {
+          "name": ["Classic Rock"],
+          "children": [
+            {
+              "name": ["Street Corner Serenade"],
+              "genre_detailed_1_genre_detailed": ["Classic Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Street Corner Serenade"],
+              "value": [11]
+            },
+            {
+              "name": ["Green-Eyed Lady"],
+              "genre_detailed_1_genre_detailed": ["Classic Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Green-Eyed Lady"],
+              "value": [15]
+            }
+          ]
+        },
+        {
+          "name": ["British Invasion"],
+          "children": [
+            {
+              "name": ["Ticket To Ride"],
+              "genre_detailed_1_genre_detailed": ["British Invasion"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Ticket To Ride"],
+              "value": [11]
+            },
+            {
+              "name": ["Yesterday"],
+              "genre_detailed_1_genre_detailed": ["British Invasion"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Yesterday"],
+              "value": [11]
+            },
+            {
+              "name": ["Got To Get You Into My Life"],
+              "genre_detailed_1_genre_detailed": ["British Invasion"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Got To Get You Into My Life"],
+              "value": [4]
+            },
+            {
+              "name": ["Hey Jude"],
+              "genre_detailed_1_genre_detailed": ["British Invasion"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Hey Jude"],
+              "value": [7]
+            },
+            {
+              "name": ["Twist And Shout"],
+              "genre_detailed_1_genre_detailed": ["British Invasion"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Twist And Shout"],
+              "value": [18]
+            },
+            {
+              "name": ["We Can Work It Out"],
+              "genre_detailed_1_genre_detailed": ["British Invasion"],
+              "genre_most_broad": ["Rock"],
+              "song": ["We Can Work It Out"],
+              "value": [6]
+            },
+            {
+              "name": ["I Am The Walrus"],
+              "genre_detailed_1_genre_detailed": ["British Invasion"],
+              "genre_most_broad": ["Rock"],
+              "song": ["I Am The Walrus"],
+              "value": [2]
+            },
+            {
+              "name": ["She Loves You"],
+              "genre_detailed_1_genre_detailed": ["British Invasion"],
+              "genre_most_broad": ["Rock"],
+              "song": ["She Loves You"],
+              "value": [8]
+            }
+          ]
+        },
+        {
+          "name": ["Album Rock"],
+          "children": [
+            {
+              "name": ["Hold The Line"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Hold The Line"],
+              "value": [12]
+            },
+            {
+              "name": ["Let's Dance"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Let's Dance"],
+              "value": [16]
+            },
+            {
+              "name": ["Stranger In Town"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Stranger In Town"],
+              "value": [2]
+            },
+            {
+              "name": ["Made To Love You"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Made To Love You"],
+              "value": [1]
+            },
+            {
+              "name": ["High On You"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["High On You"],
+              "value": [16]
+            },
+            {
+              "name": ["Walk Of Life"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Walk Of Life"],
+              "value": [8]
+            },
+            {
+              "name": ["Two Out Of Three Ain't Bad"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Two Out Of Three Ain't Bad"],
+              "value": [20]
+            },
+            {
+              "name": ["Say It Isn't So"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Say It Isn't So"],
+              "value": [15]
+            },
+            {
+              "name": ["Is This Love"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Is This Love"],
+              "value": [5]
+            },
+            {
+              "name": ["No Way Out"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["No Way Out"],
+              "value": [10]
+            },
+            {
+              "name": ["In Too Deep"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["In Too Deep"],
+              "value": [12]
+            },
+            {
+              "name": ["Jumpin' Jack Flash"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Jumpin' Jack Flash"],
+              "value": [2]
+            },
+            {
+              "name": ["Lights"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Lights"],
+              "value": [17]
+            },
+            {
+              "name": ["I'd Do Anything For Love"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["I'd Do Anything For Love"],
+              "value": [22]
+            },
+            {
+              "name": ["Out Of Time"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Out Of Time"],
+              "value": [2]
+            },
+            {
+              "name": ["Hold On Loosely"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Hold On Loosely"],
+              "value": [7]
+            },
+            {
+              "name": ["Carefree Highway"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Carefree Highway"],
+              "value": [6]
+            },
+            {
+              "name": ["Emotional Rescue"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Emotional Rescue"],
+              "value": [4]
+            },
+            {
+              "name": ["You Make Loving Fun"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["You Make Loving Fun"],
+              "value": [14]
+            },
+            {
+              "name": ["Rag Doll"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Rag Doll"],
+              "value": [15]
+            },
+            {
+              "name": ["Winds Of Change"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Winds Of Change"],
+              "value": [2]
+            },
+            {
+              "name": ["Family Man"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Family Man"],
+              "value": [4]
+            },
+            {
+              "name": ["Stay - The Load-Out"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Stay - The Load-Out"],
+              "value": [1]
+            },
+            {
+              "name": ["Kayleigh"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Kayleigh"],
+              "value": [2]
+            },
+            {
+              "name": ["Baby Step Back"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Baby Step Back"],
+              "value": [5]
+            },
+            {
+              "name": ["She's Gone"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["She's Gone"],
+              "value": [8]
+            },
+            {
+              "name": ["I'll Be Over You"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["I'll Be Over You"],
+              "value": [1]
+            },
+            {
+              "name": ["Teacher Teacher"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Teacher Teacher"],
+              "value": [8]
+            },
+            {
+              "name": ["You Make My Dreams"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["You Make My Dreams"],
+              "value": [6]
+            },
+            {
+              "name": ["Fame"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Fame"],
+              "value": [1]
+            },
+            {
+              "name": ["Prime Time"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Prime Time"],
+              "value": [8]
+            },
+            {
+              "name": ["I Don't Know Why"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["I Don't Know Why"],
+              "value": [4]
+            },
+            {
+              "name": ["No Son Of Mine"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["No Son Of Mine"],
+              "value": [1]
+            },
+            {
+              "name": ["Tonight"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Tonight"],
+              "value": [6]
+            },
+            {
+              "name": ["Objects In The Rear View"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Objects In The Rear View"],
+              "value": [1]
+            },
+            {
+              "name": ["Without Your Love"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Without Your Love"],
+              "value": [5]
+            },
+            {
+              "name": ["Happy"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Happy"],
+              "value": [5]
+            },
+            {
+              "name": ["Down On Love"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Down On Love"],
+              "value": [2]
+            },
+            {
+              "name": ["He Can't Love You"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["He Can't Love You"],
+              "value": [5]
+            },
+            {
+              "name": ["Dream On"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Dream On"],
+              "value": [15]
+            },
+            {
+              "name": ["Bloody Well Right"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Bloody Well Right"],
+              "value": [3]
+            },
+            {
+              "name": ["I Won't Hold You Back"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["I Won't Hold You Back"],
+              "value": [16]
+            },
+            {
+              "name": ["The Wreck Of The Edmund..."],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["The Wreck Of The Edmund..."],
+              "value": [5]
+            },
+            {
+              "name": ["Dirty White Boy"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Dirty White Boy"],
+              "value": [3]
+            },
+            {
+              "name": ["Find Your Way Back"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Find Your Way Back"],
+              "value": [12]
+            },
+            {
+              "name": ["Feels Like The First Time"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Feels Like The First Time"],
+              "value": [10]
+            },
+            {
+              "name": ["Jaded"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Jaded"],
+              "value": [7]
+            },
+            {
+              "name": ["A Man I'll Never Be"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["A Man I'll Never Be"],
+              "value": [8]
+            },
+            {
+              "name": ["Break It Up"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Break It Up"],
+              "value": [10]
+            },
+            {
+              "name": ["Guns For Hire"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Guns For Hire"],
+              "value": [4]
+            },
+            {
+              "name": ["Modern Love"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Modern Love"],
+              "value": [9]
+            },
+            {
+              "name": ["Strung Out"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Strung Out"],
+              "value": [4]
+            },
+            {
+              "name": ["Did It In A Minute"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Did It In A Minute"],
+              "value": [10]
+            },
+            {
+              "name": ["Every Time I Think Of You"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Every Time I Think Of You"],
+              "value": [1]
+            },
+            {
+              "name": ["King Of Pain"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["King Of Pain"],
+              "value": [16]
+            },
+            {
+              "name": ["Rosanna"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Rosanna"],
+              "value": [14]
+            },
+            {
+              "name": ["Take The Time"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Take The Time"],
+              "value": [3]
+            }
+          ]
+        },
+        {
+          "name": ["Adult Standards"],
+          "children": [
+            {
+              "name": ["A Whole New World"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["A Whole New World"],
+              "value": [17]
+            },
+            {
+              "name": ["Very Lovely Woman"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Very Lovely Woman"],
+              "value": [5]
+            },
+            {
+              "name": ["Till I Loved You"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Till I Loved You"],
+              "value": [3]
+            },
+            {
+              "name": ["The Main Event"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["The Main Event"],
+              "value": [16]
+            },
+            {
+              "name": ["Let The Feeling Flow"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Let The Feeling Flow"],
+              "value": [7]
+            },
+            {
+              "name": ["Just As I Am"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Just As I Am"],
+              "value": [10]
+            },
+            {
+              "name": ["What Kind Of Fool"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["What Kind Of Fool"],
+              "value": [8]
+            },
+            {
+              "name": ["Run To Me"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Run To Me"],
+              "value": [12]
+            },
+            {
+              "name": ["New York Mining Disaster 1941"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["New York Mining Disaster 1941"],
+              "value": [6]
+            },
+            {
+              "name": ["Stayin' Alive"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Stayin' Alive"],
+              "value": [3]
+            },
+            {
+              "name": ["There's No Easy Way"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["There's No Easy Way"],
+              "value": [6]
+            },
+            {
+              "name": ["That's What Love Is All About"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["That's What Love Is All About"],
+              "value": [13]
+            },
+            {
+              "name": ["Missing You Now"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Missing You Now"],
+              "value": [20]
+            },
+            {
+              "name": ["I Finally Found Someone"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["I Finally Found Someone"],
+              "value": [17]
+            },
+            {
+              "name": ["Having A Party"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Having A Party"],
+              "value": [14]
+            },
+            {
+              "name": ["How Deep Is Your Love"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["How Deep Is Your Love"],
+              "value": [3]
+            },
+            {
+              "name": ["Leave Virginia Alone"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Leave Virginia Alone"],
+              "value": [12]
+            },
+            {
+              "name": ["Rhythm Of My Heart"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Rhythm Of My Heart"],
+              "value": [1]
+            },
+            {
+              "name": ["Here I Am"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Here I Am"],
+              "value": [11]
+            },
+            {
+              "name": ["The Guitar Man"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["The Guitar Man"],
+              "value": [5]
+            },
+            {
+              "name": ["Baby Jane"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Baby Jane"],
+              "value": [1]
+            },
+            {
+              "name": ["Lonely Days"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Lonely Days"],
+              "value": [5]
+            },
+            {
+              "name": ["Soul Provider"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Soul Provider"],
+              "value": [17]
+            },
+            {
+              "name": ["How Can We Be Lovers"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["How Can We Be Lovers"],
+              "value": [6]
+            },
+            {
+              "name": ["Slow Dancin'"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Slow Dancin'"],
+              "value": [3]
+            },
+            {
+              "name": ["You're The Only Woman (You & I)"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["You're The Only Woman (You & I)"],
+              "value": [18]
+            },
+            {
+              "name": ["I Was Only Joking"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["I Was Only Joking"],
+              "value": [11]
+            },
+            {
+              "name": ["Mother Freedom"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Mother Freedom"],
+              "value": [6]
+            }
+          ]
+        },
+        {
+          "name": ["Country Rock"],
+          "children": [
+            {
+              "name": ["If Looks Could Kill"],
+              "genre_detailed_1_genre_detailed": ["Country Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["If Looks Could Kill"],
+              "value": [2]
+            },
+            {
+              "name": ["The City Of New Orleans"],
+              "genre_detailed_1_genre_detailed": ["Country Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["The City Of New Orleans"],
+              "value": [2]
+            },
+            {
+              "name": ["Watch Closely Now"],
+              "genre_detailed_1_genre_detailed": ["Country Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Watch Closely Now"],
+              "value": [1]
+            }
+          ]
+        },
+        {
+          "name": ["Mellow Gold"],
+          "children": [
+            {
+              "name": ["Can't Stop Loving You"],
+              "genre_detailed_1_genre_detailed": ["Mellow Gold"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Can't Stop Loving You"],
+              "value": [13]
+            },
+            {
+              "name": ["Something Happened..."],
+              "genre_detailed_1_genre_detailed": ["Mellow Gold"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Something Happened..."],
+              "value": [18]
+            },
+            {
+              "name": ["Got A Hold On Me"],
+              "genre_detailed_1_genre_detailed": ["Mellow Gold"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Got A Hold On Me"],
+              "value": [6]
+            },
+            {
+              "name": ["Two Hearts"],
+              "genre_detailed_1_genre_detailed": ["Mellow Gold"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Two Hearts"],
+              "value": [13]
+            },
+            {
+              "name": ["Dance Into The Light"],
+              "genre_detailed_1_genre_detailed": ["Mellow Gold"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Dance Into The Light"],
+              "value": [16]
+            }
+          ]
+        },
+        {
+          "name": ["Classic Canadian Rock"],
+          "children": [
+            {
+              "name": ["Nightwalker"],
+              "genre_detailed_1_genre_detailed": ["Classic Canadian Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Nightwalker"],
+              "value": [4]
+            },
+            {
+              "name": ["Sun's Gonna Rise"],
+              "genre_detailed_1_genre_detailed": ["Classic Canadian Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Sun's Gonna Rise"],
+              "value": [3]
+            },
+            {
+              "name": ["Rock Me"],
+              "genre_detailed_1_genre_detailed": ["Classic Canadian Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Rock Me"],
+              "value": [4]
+            },
+            {
+              "name": ["I Just Wanna Stop"],
+              "genre_detailed_1_genre_detailed": ["Classic Canadian Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["I Just Wanna Stop"],
+              "value": [12]
+            }
+          ]
+        },
+        {
+          "name": ["Classic Garage Rock"],
+          "children": [
+            {
+              "name": ["Death Of An Angel"],
+              "genre_detailed_1_genre_detailed": ["Classic Garage Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Death Of An Angel"],
+              "value": [8]
+            },
+            {
+              "name": ["(Ghost) Riders In The Sky"],
+              "genre_detailed_1_genre_detailed": ["Classic Garage Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["(Ghost) Riders In The Sky"],
+              "value": [3]
+            },
+            {
+              "name": ["Annie Fanny"],
+              "genre_detailed_1_genre_detailed": ["Classic Garage Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Annie Fanny"],
+              "value": [8]
+            },
+            {
+              "name": ["Shape Of Things To Come"],
+              "genre_detailed_1_genre_detailed": ["Classic Garage Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Shape Of Things To Come"],
+              "value": [10]
+            },
+            {
+              "name": ["Theme From The Wild Angels"],
+              "genre_detailed_1_genre_detailed": ["Classic Garage Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Theme From The Wild Angels"],
+              "value": [2]
+            }
+          ]
+        },
+        {
+          "name": ["Heartland Rock"],
+          "children": [
+            {
+              "name": ["I'm On Fire"],
+              "genre_detailed_1_genre_detailed": ["Heartland Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["I'm On Fire"],
+              "value": [1]
+            },
+            {
+              "name": ["My Hometown"],
+              "genre_detailed_1_genre_detailed": ["Heartland Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["My Hometown"],
+              "value": [9]
+            },
+            {
+              "name": ["Streets Of Philadelphia"],
+              "genre_detailed_1_genre_detailed": ["Heartland Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Streets Of Philadelphia"],
+              "value": [14]
+            }
+          ]
+        },
+        {
+          "name": ["Irish Rock"],
+          "children": [
+            {
+              "name": ["Staring At The Sun"],
+              "genre_detailed_1_genre_detailed": ["Irish Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Staring At The Sun"],
+              "value": [11]
+            },
+            {
+              "name": ["Hold Me, Thrill Me..."],
+              "genre_detailed_1_genre_detailed": ["Irish Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Hold Me, Thrill Me..."],
+              "value": [10]
+            },
+            {
+              "name": ["Where The Streets Have No Name"],
+              "genre_detailed_1_genre_detailed": ["Irish Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Where The Streets Have No Name"],
+              "value": [14]
+            },
+            {
+              "name": ["Last Night On Earth"],
+              "genre_detailed_1_genre_detailed": ["Irish Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Last Night On Earth"],
+              "value": [6]
+            },
+            {
+              "name": ["With or Without You"],
+              "genre_detailed_1_genre_detailed": ["Irish Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["With or Without You"],
+              "value": [10]
+            }
+          ]
+        },
+        {
+          "name": ["British Folk"],
+          "children": [
+            {
+              "name": ["Innocent Eyes"],
+              "genre_detailed_1_genre_detailed": ["British Folk"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Innocent Eyes"],
+              "value": [7]
+            }
+          ]
+        },
+        {
+          "name": ["Permanent Wave"],
+          "children": [
+            {
+              "name": ["All This Time"],
+              "genre_detailed_1_genre_detailed": ["Permanent Wave"],
+              "genre_most_broad": ["Rock"],
+              "song": ["All This Time"],
+              "value": [8]
+            },
+            {
+              "name": ["You Still Touch Me"],
+              "genre_detailed_1_genre_detailed": ["Permanent Wave"],
+              "genre_most_broad": ["Rock"],
+              "song": ["You Still Touch Me"],
+              "value": [1]
+            }
+          ]
+        },
+        {
+          "name": ["Melodic Hard Rock"],
+          "children": [
+            {
+              "name": ["Don't Break My Heart"],
+              "genre_detailed_1_genre_detailed": ["Melodic Hard Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Don't Break My Heart"],
+              "value": [1]
+            }
+          ]
+        },
+        {
+          "name": ["Soft Rock"],
+          "children": [
+            {
+              "name": ["Boys Night Out"],
+              "genre_detailed_1_genre_detailed": ["Soft Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Boys Night Out"],
+              "value": [8]
+            },
+            {
+              "name": ["Mental Picture"],
+              "genre_detailed_1_genre_detailed": ["Soft Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Mental Picture"],
+              "value": [19]
+            },
+            {
+              "name": ["Searching For A Thrill"],
+              "genre_detailed_1_genre_detailed": ["Soft Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Searching For A Thrill"],
+              "value": [2]
+            },
+            {
+              "name": ["Whipped"],
+              "genre_detailed_1_genre_detailed": ["Soft Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Whipped"],
+              "value": [6]
+            }
+          ]
+        },
+        {
+          "name": ["Deep Soft Rock"],
+          "children": [
+            {
+              "name": ["Stand By Me"],
+              "genre_detailed_1_genre_detailed": ["Deep Soft Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Stand By Me"],
+              "value": [13]
+            }
+          ]
+        },
+        {
+          "name": ["Modern Rock"],
+          "children": [
+            {
+              "name": ["Oh Love"],
+              "genre_detailed_1_genre_detailed": ["Modern Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Oh Love"],
+              "value": [1]
+            },
+            {
+              "name": ["Madness"],
+              "genre_detailed_1_genre_detailed": ["Modern Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Madness"],
+              "value": [22]
+            },
+            {
+              "name": ["Mr. Brightside"],
+              "genre_detailed_1_genre_detailed": ["Modern Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Mr. Brightside"],
+              "value": [12]
+            },
+            {
+              "name": ["Wake Me Up When September Ends"],
+              "genre_detailed_1_genre_detailed": ["Modern Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Wake Me Up When September Ends"],
+              "value": [18]
+            }
+          ]
+        },
+        {
+          "name": ["Garage Rock"],
+          "children": [
+            {
+              "name": ["Do I Wanna Know?"],
+              "genre_detailed_1_genre_detailed": ["Garage Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Do I Wanna Know?"],
+              "value": [5]
+            }
+          ]
+        },
+        {
+          "name": ["Art Rock"],
+          "children": [
+            {
+              "name": ["Wild Wild Life"],
+              "genre_detailed_1_genre_detailed": ["Art Rock"],
+              "genre_most_broad": ["Rock"],
+              "song": ["Wild Wild Life"],
+              "value": [13]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": ["Blues Rock"],
+      "children": [
+        {
+          "name": ["Alternative Metal"],
+          "children": [
+            {
+              "name": ["Bother"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Bother"],
+              "value": [7]
+            },
+            {
+              "name": ["The Pretender"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["The Pretender"],
+              "value": [16]
+            },
+            {
+              "name": ["Butterfly"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Butterfly"],
+              "value": [18]
+            },
+            {
+              "name": ["Send The Pain Below"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Send The Pain Below"],
+              "value": [3]
+            },
+            {
+              "name": ["Fade"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Fade"],
+              "value": [12]
+            },
+            {
+              "name": ["This Afternoon"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["This Afternoon"],
+              "value": [20]
+            },
+            {
+              "name": ["Figured You Out"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Figured You Out"],
+              "value": [18]
+            },
+            {
+              "name": ["Blurry"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Blurry"],
+              "value": [33]
+            },
+            {
+              "name": ["Like A Stone"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Like A Stone"],
+              "value": [17]
+            },
+            {
+              "name": ["Break"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Break"],
+              "value": [18]
+            },
+            {
+              "name": ["Getting Away With Murder"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Getting Away With Murder"],
+              "value": [16]
+            },
+            {
+              "name": ["It's Been Awhile"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["It's Been Awhile"],
+              "value": [10]
+            },
+            {
+              "name": ["Best Of You"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Best Of You"],
+              "value": [9]
+            },
+            {
+              "name": ["Slither"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Slither"],
+              "value": [1]
+            },
+            {
+              "name": ["All Summer Long"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["All Summer Long"],
+              "value": [7]
+            },
+            {
+              "name": ["Photograph"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Photograph"],
+              "value": [30]
+            },
+            {
+              "name": ["Guerrilla Radio"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Guerrilla Radio"],
+              "value": [4]
+            },
+            {
+              "name": ["Paralyzer"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Paralyzer"],
+              "value": [35]
+            },
+            {
+              "name": ["More Than This"],
+              "genre_detailed_1_genre_detailed": ["Alternative Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["More Than This"],
+              "value": [9]
+            }
+          ]
+        },
+        {
+          "name": ["Album Rock"],
+          "children": [
+            {
+              "name": ["Let's Put The X In Sex"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Let's Put The X In Sex"],
+              "value": [2]
+            },
+            {
+              "name": ["(oh) Pretty Woman"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["(oh) Pretty Woman"],
+              "value": [10]
+            },
+            {
+              "name": ["Living In The Past"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Living In The Past"],
+              "value": [7]
+            },
+            {
+              "name": ["The Big Money"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["The Big Money"],
+              "value": [9]
+            },
+            {
+              "name": ["Fly Away"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Fly Away"],
+              "value": [10]
+            },
+            {
+              "name": ["I'm In You"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["I'm In You"],
+              "value": [5]
+            },
+            {
+              "name": ["I Can't Drive 55"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["I Can't Drive 55"],
+              "value": [9]
+            },
+            {
+              "name": ["I Don't Need No Doctor"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["I Don't Need No Doctor"],
+              "value": [6]
+            },
+            {
+              "name": ["What's Your Name"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["What's Your Name"],
+              "value": [13]
+            },
+            {
+              "name": ["Free Bird"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Free Bird"],
+              "value": [11]
+            },
+            {
+              "name": ["You Got That Right"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["You Got That Right"],
+              "value": [2]
+            },
+            {
+              "name": ["Crown Of Creation"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Crown Of Creation"],
+              "value": [2]
+            },
+            {
+              "name": ["Sometimes She Cries"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Sometimes She Cries"],
+              "value": [12]
+            },
+            {
+              "name": ["Kissin' Time"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Kissin' Time"],
+              "value": [5]
+            },
+            {
+              "name": ["We're An American Band"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["We're An American Band"],
+              "value": [17]
+            },
+            {
+              "name": ["Baby, I Love Your Way"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Baby, I Love Your Way"],
+              "value": [6]
+            },
+            {
+              "name": ["Your Mama Don't Dance"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Your Mama Don't Dance"],
+              "value": [3]
+            },
+            {
+              "name": ["Let's Get Rocked"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Let's Get Rocked"],
+              "value": [2]
+            },
+            {
+              "name": ["Headed For A Heartbreak"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Headed For A Heartbreak"],
+              "value": [2]
+            },
+            {
+              "name": ["The Spirit Of Radio"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["The Spirit Of Radio"],
+              "value": [6]
+            },
+            {
+              "name": ["Pretzel Logic"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Pretzel Logic"],
+              "value": [1]
+            },
+            {
+              "name": ["Dolly Dagger"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Dolly Dagger"],
+              "value": [5]
+            },
+            {
+              "name": ["Rock Me Tonite"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Rock Me Tonite"],
+              "value": [5]
+            },
+            {
+              "name": ["When You Close Your Eyes"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["When You Close Your Eyes"],
+              "value": [10]
+            },
+            {
+              "name": ["18 And Life"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["18 And Life"],
+              "value": [8]
+            },
+            {
+              "name": ["Eye On You"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Eye On You"],
+              "value": [5]
+            },
+            {
+              "name": ["Time Out Of Mind"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Time Out Of Mind"],
+              "value": [4]
+            },
+            {
+              "name": ["Fire Woman"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Fire Woman"],
+              "value": [9]
+            },
+            {
+              "name": ["Rock The Night"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Rock The Night"],
+              "value": [7]
+            },
+            {
+              "name": ["Train, Train"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Train, Train"],
+              "value": [10]
+            },
+            {
+              "name": ["Need A Little Taste Of Love"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Need A Little Taste Of Love"],
+              "value": [5]
+            },
+            {
+              "name": ["Peg"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Peg"],
+              "value": [19]
+            },
+            {
+              "name": ["Sister Christian"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Sister Christian"],
+              "value": [21]
+            },
+            {
+              "name": ["I Finally Found Someone"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["I Finally Found Someone"],
+              "value": [21]
+            },
+            {
+              "name": ["School's Out"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["School's Out"],
+              "value": [4]
+            },
+            {
+              "name": ["That's Life"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["That's Life"],
+              "value": [1]
+            },
+            {
+              "name": ["One Step Closer"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["One Step Closer"],
+              "value": [14]
+            },
+            {
+              "name": ["Nobody's Fool"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Nobody's Fool"],
+              "value": [13]
+            },
+            {
+              "name": ["Legs"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Legs"],
+              "value": [4]
+            },
+            {
+              "name": ["Wynken, Blynken And Nod"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Wynken, Blynken And Nod"],
+              "value": [1]
+            },
+            {
+              "name": ["Cum On Feel The Noize"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Cum On Feel The Noize"],
+              "value": [9]
+            },
+            {
+              "name": ["Hey Nineteen"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Hey Nineteen"],
+              "value": [3]
+            },
+            {
+              "name": ["Talk Dirty To Me"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Talk Dirty To Me"],
+              "value": [15]
+            },
+            {
+              "name": ["Eighteen"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Eighteen"],
+              "value": [7]
+            },
+            {
+              "name": ["Shandi"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Shandi"],
+              "value": [6]
+            },
+            {
+              "name": ["Rock And Roll All Nite (live)"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Rock And Roll All Nite (live)"],
+              "value": [2]
+            },
+            {
+              "name": ["Poison"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Poison"],
+              "value": [12]
+            },
+            {
+              "name": ["Dog Eat Dog"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Dog Eat Dog"],
+              "value": [2]
+            },
+            {
+              "name": ["Magic Carpet Ride"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Magic Carpet Ride"],
+              "value": [7]
+            },
+            {
+              "name": ["Fool For Your Loving"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Fool For Your Loving"],
+              "value": [12]
+            },
+            {
+              "name": ["California Girls"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["California Girls"],
+              "value": [10]
+            },
+            {
+              "name": ["Doraville"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Doraville"],
+              "value": [7]
+            },
+            {
+              "name": ["Is This Love"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Is This Love"],
+              "value": [16]
+            },
+            {
+              "name": ["Iron Man"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Iron Man"],
+              "value": [7]
+            },
+            {
+              "name": ["Mama, I'm Coming Home"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Mama, I'm Coming Home"],
+              "value": [11]
+            },
+            {
+              "name": ["Shot Of Poison"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Shot Of Poison"],
+              "value": [12]
+            },
+            {
+              "name": ["Sharp Dressed Man"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Sharp Dressed Man"],
+              "value": [2]
+            },
+            {
+              "name": ["Save Your Love"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Save Your Love"],
+              "value": [6]
+            },
+            {
+              "name": ["Sure Know Something"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Sure Know Something"],
+              "value": [7]
+            },
+            {
+              "name": ["Why Can't This Be Love"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Why Can't This Be Love"],
+              "value": [14]
+            },
+            {
+              "name": ["Shout It Out Loud"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Shout It Out Loud"],
+              "value": [8]
+            },
+            {
+              "name": ["Do You Feel Like We Do"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Do You Feel Like We Do"],
+              "value": [12]
+            },
+            {
+              "name": ["Lick It Up"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Lick It Up"],
+              "value": [3]
+            },
+            {
+              "name": ["Mama, Weer All Crazee Now"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Mama, Weer All Crazee Now"],
+              "value": [3]
+            },
+            {
+              "name": ["A Passion Play (Edit #8)"],
+              "genre_detailed_1_genre_detailed": ["Album Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["A Passion Play (Edit #8)"],
+              "value": [3]
+            }
+          ]
+        },
+        {
+          "name": ["Doo-Wop"],
+          "children": [
+            {
+              "name": ["(I Do The) Shimmy Shimmy"],
+              "genre_detailed_1_genre_detailed": ["Doo-Wop"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["(I Do The) Shimmy Shimmy"],
+              "value": [11]
+            }
+          ]
+        },
+        {
+          "name": ["Blues Rock"],
+          "children": [
+            {
+              "name": ["If I Were A Carpenter..."],
+              "genre_detailed_1_genre_detailed": ["Blues Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["If I Were A Carpenter..."],
+              "value": [1]
+            },
+            {
+              "name": ["Jingo"],
+              "genre_detailed_1_genre_detailed": ["Blues Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Jingo"],
+              "value": [2]
+            },
+            {
+              "name": ["No One To Depend On"],
+              "genre_detailed_1_genre_detailed": ["Blues Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["No One To Depend On"],
+              "value": [5]
+            },
+            {
+              "name": ["House Of The Rising Sun"],
+              "genre_detailed_1_genre_detailed": ["Blues Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["House Of The Rising Sun"],
+              "value": [5]
+            },
+            {
+              "name": ["Stranger"],
+              "genre_detailed_1_genre_detailed": ["Blues Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Stranger"],
+              "value": [2]
+            },
+            {
+              "name": ["Precious And Few"],
+              "genre_detailed_1_genre_detailed": ["Blues Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Precious And Few"],
+              "value": [7]
+            },
+            {
+              "name": ["Maria Maria"],
+              "genre_detailed_1_genre_detailed": ["Blues Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Maria Maria"],
+              "value": [23]
+            }
+          ]
+        },
+        {
+          "name": ["Alternative Rock"],
+          "children": [
+            {
+              "name": ["Californication"],
+              "genre_detailed_1_genre_detailed": ["Alternative Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Californication"],
+              "value": [15]
+            },
+            {
+              "name": ["Scar Tissue"],
+              "genre_detailed_1_genre_detailed": ["Alternative Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Scar Tissue"],
+              "value": [8]
+            },
+            {
+              "name": ["The Adventures Of Rain Dance Maggie"],
+              "genre_detailed_1_genre_detailed": ["Alternative Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["The Adventures Of Rain Dance Maggie"],
+              "value": [2]
+            },
+            {
+              "name": ["By The Way"],
+              "genre_detailed_1_genre_detailed": ["Alternative Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["By The Way"],
+              "value": [17]
+            }
+          ]
+        },
+        {
+          "name": ["Glam Metal"],
+          "children": [
+            {
+              "name": ["Born To Be My Baby"],
+              "genre_detailed_1_genre_detailed": ["Glam Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Born To Be My Baby"],
+              "value": [9]
+            },
+            {
+              "name": ["This Ain't A Love Song"],
+              "genre_detailed_1_genre_detailed": ["Glam Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["This Ain't A Love Song"],
+              "value": [18]
+            },
+            {
+              "name": ["She Don't Know Me"],
+              "genre_detailed_1_genre_detailed": ["Glam Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["She Don't Know Me"],
+              "value": [10]
+            },
+            {
+              "name": ["Smokin' In The Boys Room"],
+              "genre_detailed_1_genre_detailed": ["Glam Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Smokin' In The Boys Room"],
+              "value": [6]
+            },
+            {
+              "name": ["Home Sweet Home"],
+              "genre_detailed_1_genre_detailed": ["Glam Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Home Sweet Home"],
+              "value": [8]
+            }
+          ]
+        },
+        {
+          "name": ["Blues"],
+          "children": [
+            {
+              "name": ["Help The Poor"],
+              "genre_detailed_1_genre_detailed": ["Blues"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Help The Poor"],
+              "value": [3]
+            },
+            {
+              "name": ["After Midnight"],
+              "genre_detailed_1_genre_detailed": ["Blues"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["After Midnight"],
+              "value": [1]
+            },
+            {
+              "name": ["Paying The Cost To Be The Boss"],
+              "genre_detailed_1_genre_detailed": ["Blues"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Paying The Cost To Be The Boss"],
+              "value": [4]
+            },
+            {
+              "name": ["Crazy Mama"],
+              "genre_detailed_1_genre_detailed": ["Blues"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Crazy Mama"],
+              "value": [12]
+            },
+            {
+              "name": ["Aw Shucks, Hush Your Mouth"],
+              "genre_detailed_1_genre_detailed": ["Blues"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Aw Shucks, Hush Your Mouth"],
+              "value": [3]
+            }
+          ]
+        },
+        {
+          "name": ["Rhythm And Blues"],
+          "children": [
+            {
+              "name": ["Let's Work Together (Part 1)"],
+              "genre_detailed_1_genre_detailed": ["Rhythm And Blues"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Let's Work Together (Part 1)"],
+              "value": [11]
+            }
+          ]
+        },
+        {
+          "name": ["Hard Rock"],
+          "children": [
+            {
+              "name": ["The Memory Remains"],
+              "genre_detailed_1_genre_detailed": ["Hard Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["The Memory Remains"],
+              "value": [3]
+            },
+            {
+              "name": ["I Disappear"],
+              "genre_detailed_1_genre_detailed": ["Hard Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["I Disappear"],
+              "value": [10]
+            }
+          ]
+        },
+        {
+          "name": ["Country Rock"],
+          "children": [
+            {
+              "name": ["Love Sneakin' Up On You"],
+              "genre_detailed_1_genre_detailed": ["Country Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Love Sneakin' Up On You"],
+              "value": [14]
+            },
+            {
+              "name": ["I Can't Make You Love Me"],
+              "genre_detailed_1_genre_detailed": ["Country Rock"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["I Can't Make You Love Me"],
+              "value": [3]
+            }
+          ]
+        },
+        {
+          "name": ["Funk Metal"],
+          "children": [
+            {
+              "name": ["Everything About You"],
+              "genre_detailed_1_genre_detailed": ["Funk Metal"],
+              "genre_most_broad": ["Blues Rock"],
+              "song": ["Everything About You"],
+              "value": [2]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": ["Blues"],
+      "children": [
+        {
+          "name": ["Blues"],
+          "children": [
+            {
+              "name": ["Smoking Gun"],
+              "genre_detailed_1_genre_detailed": ["Blues"],
+              "genre_most_broad": ["Blues"],
+              "song": ["Smoking Gun"],
+              "value": [13]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": ["Country Rock"],
+      "children": [
+        {
+          "name": ["Appalachian Folk"],
+          "children": [
+            {
+              "name": ["Waltzing Matilda"],
+              "genre_detailed_1_genre_detailed": ["Appalachian Folk"],
+              "genre_most_broad": ["Country Rock"],
+              "song": ["Waltzing Matilda"],
+              "value": [1]
+            },
+            {
+              "name": ["Bimbombey"],
+              "genre_detailed_1_genre_detailed": ["Appalachian Folk"],
+              "genre_most_broad": ["Country Rock"],
+              "song": ["Bimbombey"],
+              "value": [9]
+            }
+          ]
+        },
+        {
+          "name": ["Comic"],
+          "children": [
+            {
+              "name": ["You Can't Roller Skate..."],
+              "genre_detailed_1_genre_detailed": ["Comic"],
+              "genre_most_broad": ["Country Rock"],
+              "song": ["You Can't Roller Skate..."],
+              "value": [3]
+            }
+          ]
+        },
+        {
+          "name": ["Country"],
+          "children": [
+            {
+              "name": ["Shut Up And Kiss Me"],
+              "genre_detailed_1_genre_detailed": ["Country"],
+              "genre_most_broad": ["Country Rock"],
+              "song": ["Shut Up And Kiss Me"],
+              "value": [2]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": ["Soul"],
+      "children": [
+        {
+          "name": ["Classic Soul"],
+          "children": [
+            {
+              "name": ["Could It Be I'm Falling In Love"],
+              "genre_detailed_1_genre_detailed": ["Classic Soul"],
+              "genre_most_broad": ["Soul"],
+              "song": ["Could It Be I'm Falling In Love"],
+              "value": [13]
+            },
+            {
+              "name": ["Innocent"],
+              "genre_detailed_1_genre_detailed": ["Classic Soul"],
+              "genre_most_broad": ["Soul"],
+              "song": ["Innocent"],
+              "value": [6]
+            },
+            {
+              "name": ["I'll Be Around"],
+              "genre_detailed_1_genre_detailed": ["Classic Soul"],
+              "genre_most_broad": ["Soul"],
+              "song": ["I'll Be Around"],
+              "value": [7]
+            },
+            {
+              "name": ["Ya Ya"],
+              "genre_detailed_1_genre_detailed": ["Classic Soul"],
+              "genre_most_broad": ["Soul"],
+              "song": ["Ya Ya"],
+              "value": [11]
+            }
+          ]
+        },
+        {
+          "name": ["Adult Standards"],
+          "children": [
+            {
+              "name": ["Three Times A Lady"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Soul"],
+              "song": ["Three Times A Lady"],
+              "value": [12]
+            },
+            {
+              "name": ["Nightshift"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Soul"],
+              "song": ["Nightshift"],
+              "value": [14]
+            },
+            {
+              "name": ["Slippery When Wet"],
+              "genre_detailed_1_genre_detailed": ["Adult Standards"],
+              "genre_most_broad": ["Soul"],
+              "song": ["Slippery When Wet"],
+              "value": [15]
+            }
+          ]
+        },
+        {
+          "name": ["British Soul"],
+          "children": [
+            {
+              "name": ["Crazy"],
+              "genre_detailed_1_genre_detailed": ["British Soul"],
+              "genre_most_broad": ["Soul"],
+              "song": ["Crazy"],
+              "value": [9]
+            },
+            {
+              "name": ["Kiss From A Rose"],
+              "genre_detailed_1_genre_detailed": ["British Soul"],
+              "genre_most_broad": ["Soul"],
+              "song": ["Kiss From A Rose"],
+              "value": [26]
+            }
+          ]
+        },
+        {
+          "name": ["Rhythm And Blues"],
+          "children": [
+            {
+              "name": ["The Very Thought Of You"],
+              "genre_detailed_1_genre_detailed": ["Rhythm And Blues"],
+              "genre_most_broad": ["Soul"],
+              "song": ["The Very Thought Of You"],
+              "value": [2]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
